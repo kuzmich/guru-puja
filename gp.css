@@ -1,28 +1,28 @@
 @font-face {
     font-family: 'Art of Living Script';
     font-weight: 500;
-    src: url('/fonts/artofliving_script_regular.woff2') format('woff2');
+    src: url('fonts/artofliving_script_regular.woff2') format('woff2');
     font-display: swap;
 }
 
 /* @font-face {
     font-family: 'Certa Sans';
     font-weight: 200 400;
-    src: url('../fonts/gen/certa_sans_extra_light.woff2') format('woff2');
+    src: url('fonts/gen/certa_sans_extra_light.woff2') format('woff2');
     font-display: swap;
 } */
 
 @font-face {
     font-family: 'Certa Sans';
     font-weight: 300 400;
-    src: url('/fonts/certa_sans_light.woff2') format('woff2');
+    src: url('fonts/certa_sans_light.woff2') format('woff2');
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Certa Sans';
     font-weight: 500 700;
-    src: url('/fonts/certa_sans_medium.woff2') format('woff2');
+    src: url('fonts/certa_sans_medium.woff2') format('woff2');
     font-display: swap;
 }
 
