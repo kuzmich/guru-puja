@@ -79,7 +79,7 @@ dd::after {
 }
 
 .sanskrit {
-    font-weight: bold;
+    /* font-weight: bold; */
 }
 
 .trans {
