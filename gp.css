@@ -72,7 +72,7 @@ dd::after {
 }
 
 .shloka + .shloka {
-    margin-block-start: 2rem;
+    margin-block-start: 3rem;
 }
 
 .shloka {
